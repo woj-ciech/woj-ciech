@@ -17,7 +17,7 @@ Main Projects:
 
 [Offensive OSINT - Journey over unsecured devices with Kamerka](https://www.offensiveosint.io/journey-over-unsecured-iot-devices-with-kamerka-rtsp-and-mqtt/)
 
-- [Kamerka GUI](https://github.com/woj-ciech/Kamerka-GUI)
+- [Kamerka GUI](https://github.com/woj-ciech/Kamerka-GUI) - Ultimate ISC & IoT reconaissance tool
 
 [NSA & CISA advisory](https://us-cert.cisa.gov/ncas/alerts/aa20-205a)
 
@@ -45,7 +45,7 @@ Main Projects:
 
 [Offensive OSINT - Amazon S3 leaks and bucket takeover](https://www.offensiveosint.io/fun-with-amazon-s3-leaks-and-bucket-takeover-attack/)
 
-- [Leaklooker X GUI](https://github.com/woj-ciech/LeakLooker-X)
+- [Leaklooker X GUI](https://github.com/woj-ciech/LeakLooker-X) - Find and monitor data leaks
 
 [Offensive OSINT - Leaklooker GUI](https://www.offensiveosint.io/leaklooker-gui-discover-browse-and-monitor-database-source-code-leaks/)
 
@@ -55,11 +55,11 @@ Main Projects:
 
 [Offensive OSINT - Tracking darknet users across social media platforms](https://www.offensiveosint.io/socialpath-track-users-across-social-media-platforms/)
 
-- [Danger Zone](https://github.com/woj-ciech/Danger-zone)  
+- [Danger Zone](https://github.com/woj-ciech/Danger-zone)  - Visualize relationships between doamin, ip address and email
 
 [Offensive OSINT - Visualize relationships between domains, ip addresses and emails](https://www.offensiveosint.io/osint-tool-for-visualizing-relationships-between-domains-ips-and-email-addresses/)
 
-- [Bad Ads](https://github.com/woj-ciech/Bad-Ads)
+- [Bad Ads](https://github.com/woj-ciech/Bad-Ads) - Bedpage monitoring
 
 [Offensive OSINT - Human trafficking investigation. Monitoring Bedpage](https://www.offensiveosint.io/offensive-osint-s02e02-human-trafficking-investigation-part-2-monitoring-bedpage/)
 
