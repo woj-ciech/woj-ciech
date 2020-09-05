@@ -1,6 +1,4 @@
-![](https://www.offensiveosint.io/content/images/2020/07/OffensiveOsint-logo-RGB-2.png =250px)
-
-[Offensiveosint.io](http://offensiveosint.io) 
+<img src="https://www.offensiveosint.io/content/images/2020/07/OffensiveOsint-logo-RGB-2.png" width="200">
 
 Main Projects:
 - [Kamerka](https://github.com/woj-ciech/kamerka)
