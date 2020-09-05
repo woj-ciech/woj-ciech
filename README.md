@@ -1,4 +1,4 @@
-<img src="https://www.offensiveosint.io/content/images/2020/07/OffensiveOsint-logo-RGB-2.png" width="200">
+<img src="https://www.offensiveosint.io/content/images/2020/07/OffensiveOsint-logo-RGB-2.png" width="300">
 
 Main Projects:
 - [Kamerka](https://github.com/woj-ciech/kamerka)
