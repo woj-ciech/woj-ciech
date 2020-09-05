@@ -1,4 +1,4 @@
-![](https://www.offensiveosint.io/content/images/2020/07/OffensiveOsint-logo-RGB-2.png)
+![](https://www.offensiveosint.io/content/images/2020/07/OffensiveOsint-logo-RGB-2.png =250px)
 
 [Offensiveosint.io](http://offensiveosint.io) 
 
